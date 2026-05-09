@@ -1,8 +1,7 @@
 ## Hi there 👋
-I'm Dom. I'm learning to code for a career change out of hospitality..
+Ex chef, finished a diploma of Web Development to help facilitate a move out of the industry
 
-Currently learning Python, JS, HTML, CSS<br>
-Using a few repo's here to put the lessons into practice.
+
 
 Interests
 -  Fallout/Elder Scrolls series

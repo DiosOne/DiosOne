@@ -1,5 +1,8 @@
-## Hi there 👋
-Ex chef, finished a diploma of Web Development to help facilitate a move out of the industry
+## Hi, I'm Dom.
+Ex chef, finished a diploma of Web Development to help facilitate a move out of the hospitality industry.
+
+### Technical Skills
+
 
 
 

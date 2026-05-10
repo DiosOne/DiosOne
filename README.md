@@ -33,7 +33,9 @@ Currently self-teaching:
 ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
 
-### Interests
+---
+
+## Interests
 
 - Fallout/Elder Scrolls series
 - Cyberpunk 2077
@@ -41,6 +43,12 @@ Currently self-teaching:
 - 80's/90's Cult Movies/Anime
 - TTRPG's
 - 40K Lore
+
+---
+
+### My Portfolio/Business page
+
+[Dios1. dMt WebTech](https://dios1dmt.tech/)
 
 <!--
 **DiosOne/DiosOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
